@@ -8,7 +8,7 @@ LQC Analytics is a specialized software for exploratory data analysis that imple
 
 Watch the application demonstration below:
 
-![Demo Video](Demo/LQC_AnalyticsDemo.mp4)
+![Demo Video](Demo/LQC_AnalyticsDemo.gif)
 
 ## Key Features
 
